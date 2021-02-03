@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a software engineer, I enjoy coding.
+- 🔭 I’m currently working on Cloud and Big Data
+
 <!--
 **dhcn/dhcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
