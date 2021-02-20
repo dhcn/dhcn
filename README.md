@@ -1,8 +1,8 @@
 ### Hi I'm dhcn 👋
 
-I'm a software engineer, I enjoy coding.
+I'm technophile, I enjoy engineering.
 - 🔭 I’m currently working on Cloud and Big Data.
-- I work with Rust and Python,sometimes R.
+- I work with Rust and Python,sometimes R and C++.
 
 <!--
 **dhcn/dhcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
