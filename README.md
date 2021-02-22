@@ -1,7 +1,6 @@
 ### Hi I'm dhcn 👋
 
-I'm a technophile, I enjoy coding.
-- 🔭 I’m currently working on FinTech.
+- I'm a technophile, I enjoy coding.
 - Education:Bachelor of CS, BUAA
 - Domain:GDS、Startup、Cloud、AT
 - Hobbies:
