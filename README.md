@@ -3,10 +3,10 @@
 - I'm a technophile, I enjoy coding.
 - Education:Bachelor of CS, BUAA
 - Domain:GDS、Startup、Cloud、AT
+- Coding: Rust/Julia/Python/R/C++
 - Hobbies:
-  - Coding: Rust/Julia/Python/R/C++
-  - KongFu、Reading、Trading
-  - Math、Philosophy、Sinology
+  - KongFu、Reading、Coding
+  - Philosophy、Sinology、Math
   - Movie、Game、Karaoke
   - Free Dive、Swimming、Running
   - Cooking、Tea、Traveling
