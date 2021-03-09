@@ -1,7 +1,8 @@
 ### Hi I'm dhcn 👋
 
-- I'm a technophile, I enjoy coding.
-- Domain:GDS、Startup、Cloud、AT
+- I'm a technophile, I enjoy deep work.
+- Domain: GDS、Startup、Cloud、AT
+- Work: System Architecture/Data Science
 - Coding: Rust/Julia/Python/R/C++
 - Hobbies:
   - KongFu、Reading、Coding
