@@ -1,6 +1,6 @@
 ### Hi I'm dhcn 👋
 
-- I'm a technophile, I enjoy deep work.
+- I'm a technophile, I enjoy coding.
 - Domain: GDS、Startup、Cloud、AT
 - 🔭 I’m currently working on System Architecture/Data Science
 - 🌱 I’m currently learning Algo-Trading
