@@ -3,7 +3,7 @@
 - I'm a technophile, I enjoy deep work.
 - Domain: GDS、Startup、Cloud、AT
 - 🔭 I’m currently working on System Architecture/Data Science
-- 🌱 I’m currently learning Quant Tech
+- 🌱 I’m currently learning Algo-Trading
 - 👯 I’m looking to collaborate on DeFi
 - 🤔 I’m looking for help with overseas operation
 - ⚡ Fun fact:
