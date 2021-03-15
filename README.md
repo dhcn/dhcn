@@ -2,9 +2,7 @@
 
 - I'm a technophile, I enjoy coding.
 - Domain: GDS、Startup、Cloud、AT
-- 🔭 I’m currently working on System Architecture、Data Science
-- 🌱 I’m currently learning Trading
-- 👯 I’m looking to collaborate on DeFi
+- 🔭 I’m currently working on System Architecture and Data Science
 - 🤔 I’m looking for help with overseas operation
 - ⚡ Fun fact:
   - KongFu、Reading、Coding
@@ -21,6 +19,8 @@ Here are some ideas to get you started:
  ...
  ...
  ...
+- 🌱 I’m currently learning
+- 👯 I’m looking to collaborate on
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
