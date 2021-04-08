@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on System Programming and Data Science
 - 🌱 I’m currently learning BlockChain
 - 👯 I’m looking to collaborate on DeFi
-- 🤔 I’m looking for help with overseas operation
+- 🤔 I’m looking for help with DApp overseas operation
 - ⚡ Fun fact:
   - KongFu、Reading、Coding
   - Philosophy、Sinology、Math
