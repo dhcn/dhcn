@@ -4,7 +4,7 @@
 - Domain: GDS、Startup、Cloud、AT
 - 🔭 I’m currently working on System Architecture and Data Science Engineering
 - 🌱 I’m currently learning BlockChain
-- 👯 I’m looking to collaborate on DeFi
+- 👯 I’m looking to collaborate on DApp
 - 🤔 I’m looking for help with DApp overseas operation
 - ⚡ Fun fact:
   - KongFu、Reading、Coding
