@@ -13,7 +13,6 @@
   - Free Dive、Swimming、Running
   - Cooking、Tea、Traveling
 - 💬 Ask me about Rust and Python
-- 
 <!--
 **dhcn/dhcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
