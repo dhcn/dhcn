@@ -1,7 +1,7 @@
 ### Hi I'm dhcn 👋
 
 - I'm a technophile, I enjoy coding.
-- Domain: GDS、Startup、Cloud Sec、AT
+- Domains: GDS、Startup、Cloud Sec、AT
 - 🔭 I’m currently working on System Architecture and Data Science Engineering
 - 🌱 I’m currently learning BlockChain
 - 👯 I’m looking to collaborate on DApp
@@ -12,6 +12,8 @@
   - Movie、Game、Karaoke
   - Free Dive、Swimming、Running
   - Cooking、Tea、Traveling
+- 💬 Ask me about Rust and Python
+- 
 <!--
 **dhcn/dhcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-- 💬 Ask me about ...
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
  ...
