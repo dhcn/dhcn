@@ -1,13 +1,13 @@
 ### Hi I'm dhcn 👋
 
-- I'm a technophile, I enjoy deep work.
-- Domains: GDS、Startup、Cloud Sec、AT
-- Education:Bachelor of CS, BUAA
+- 👨‍💻 I'm a technophile, I enjoy deep work.
+- 👨‍💼 Domains: GDS、Startup、Cloud Sec、AT
+- 📚 Education:Bachelor of CS, BUAA
 - 🔭 I’m currently working on System Programming  and Data Science Engineering.
 - 🌱 I’m currently learning Computational mathematics
 - 👯 I’m looking to collaborate on DApp
 - 🤔 I’m looking for help with DApp overseas operation
-- ⚡ Fun fact:
+- 😂 Fun fact:
   - KongFu、Reading、Coding
   - Philosophy、Sinology、Math
   - Movie、Game、Karaoke
