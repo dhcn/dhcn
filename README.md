@@ -8,11 +8,11 @@
 - 👯 I’m looking to collaborate on DApp
 - 🤔 I’m looking for help with DApp overseas operation
 - 😂 Fun fact:
-  - KongFu、Reading、Coding
-  - Philosophy、Sinology、Math
-  - Movie、Game、Karaoke
-  - Free Dive、Swimming、Running
-  - Cooking、Tea、Traveling
+  - 🧑 KongFu、Reading、Coding
+  - 📖 Philosophy、Sinology、Math
+  - 🎥 Movie、Game、Karaoke
+  - 🏊 Free Dive、Swimming、Running
+  - :cook: Cooking、Tea、Traveling
 - 💬 Ask me about System Programming and Data Engineering.
 <!--
 **dhcn/dhcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
