@@ -12,7 +12,7 @@
   - 📖 Philosophy、Sinology、Math
   - 🎥 Movie、Game、Karaoke
   - 🏊 Free Dive、Swimming、Running
-  - :cook: Cooking、Tea、Traveling
+  - 🍵 Cooking、Tea、Traveling
 - 💬 Ask me about System Programming and Data Engineering.
 <!--
 **dhcn/dhcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
