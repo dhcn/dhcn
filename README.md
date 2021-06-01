@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Computational mathematics
 - 👯 I’m looking to collaborate on DApp
 - 🤔 I’m looking for help with DApp overseas operation
-- 😂 Fun fact:
+- 😄 Fun fact:
   - 🧑 KongFu、Reading、Coding
   - 📖 Philosophy、Sinology、Math
   - 🎥 Movie、Game、Karaoke
