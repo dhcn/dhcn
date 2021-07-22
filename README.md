@@ -5,7 +5,7 @@
 - 📚 Education:Bachelor of CS, BUAA
 - 🔭 I’m currently working on Data Intelligence.
 - 🌱 I’m currently learning Computational Mathematics.
-- 👯 I’m looking to collaborate on DeFi.
+- 👯 I’m looking to collaborate on DApp.
 - 🤔 I’m looking for help with overseas operation
 - 😄 Fun fact:
   - 🧑 KongFu、Reading、Coding、Modeling
