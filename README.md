@@ -5,8 +5,6 @@
 - 📚 Education:Bachelor of CS, BUAA
 - 🔭 I’m currently working on Data Intelligence.
 - 🌱 I’m currently learning Computational Mathematics.
-- 👯 I’m looking to collaborate on Blockchain.
-- 🤔 I’m looking for help with overseas operation
 - 😄 Fun fact:
   - 🧑 KongFu、Reading、Coding、Modeling
   - 📖 Philosophy、Sinology、Math
@@ -19,7 +17,8 @@
 
 Here are some ideas to get you started:
 
-
+- 👯 I’m looking to collaborate on Blockchain.
+- 🤔 I’m looking for help with overseas operation
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
  ...
