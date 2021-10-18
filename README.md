@@ -11,7 +11,7 @@
   - 🎥 Movie、Game、Karaoke
   - 🏊 Free Dive、Swimming、Running
   - 🍵 Cooking、Tea、Traveling
-- 💬 Ask me about Computational Mathematics and Data Engineering.
+- 💬 Ask me about Computational Mathematics.
 <!--
 **dhcn/dhcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
