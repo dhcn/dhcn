@@ -1,6 +1,6 @@
 ### Hi I'm dhcn 👋
 
-- 👨‍💻 I'm a technophile, I enjoy deep work.
+- 👨‍💻 I'm a technophile, I enjoy deep exploratory work.
 - 👨‍💼 Domains: GDS、Startup、Cloud、Data Intelligence.
 - 📚 Education:Bachelor of CS, BUAA
 - 🔭 I’m currently working on Data Intelligence.
@@ -17,7 +17,7 @@
 
 Here are some ideas to get you started:
 
-- 👯 I’m looking to collaborate on Blockchain.
+- 👯 I’m looking to collaborate on DApp.
 - 🤔 I’m looking for help with overseas operation
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
