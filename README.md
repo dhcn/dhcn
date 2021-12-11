@@ -3,9 +3,9 @@
 - 👨‍💻 I'm a technophile, I enjoy deep exploratory work.
 - 👨‍💼 Domains: GDS、Startup、Cloud、Data Intelligence.
 - 📚 Education:Bachelor of CS, BUAA
+- 🌱 I’m currently studying on Applied Mathematics
 - 🔭 I’m currently working on Data Intelligence.
-- 🌱 I’m currently learning Computational Mathematics.
-- 🤔 I’m looking for a remote job
+- 🤔 I’m looking for a full-time remote job
 - 😄 Fun fact:
   - 🧑 KongFu、Reading、Coding、Modeling
   - 📖 Philosophy、Sinology、Math
