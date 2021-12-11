@@ -5,6 +5,7 @@
 - 📚 Education:Bachelor of CS, BUAA
 - 🔭 I’m currently working on Data Intelligence.
 - 🌱 I’m currently learning Computational Mathematics.
+- 🤔 I’m looking for a remote job
 - 😄 Fun fact:
   - 🧑 KongFu、Reading、Coding、Modeling
   - 📖 Philosophy、Sinology、Math
