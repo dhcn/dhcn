@@ -1,7 +1,7 @@
 ### Hi I'm dhcn 👋
 
-- 👨‍💻 I'm a technophile, I enjoy deep exploratory work.
-- 👨‍💼 Domains: GDS、Startup、Cloud、Cybersecurity、Data Intelligence.
+- 👨‍💻 I'm a technosocialist, I enjoy exploratory deep work.
+- 👨‍💼 Domains: GDS、Startup、Cloud、Security、Data Intelligence.
 - 📚 Education:Bachelor of CS, BUAA
 - 🌱 I’m currently studying on Applied Mathematics
 - 🔭 I’m currently working on Data Intelligence.
