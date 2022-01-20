@@ -4,7 +4,6 @@
 - 👨‍💼 Domains: RD.
 - 📚 Education:Bachelor of CS, BUAA
 - 🌱 I’m currently studying on Dhyana
-- 🔭 I’m currently working on Dhyana.
 - 😄 Fun fact:
   - 🧑 KongFu、Reading、Coding、Modeling
   - 📖 Philosophy、Sinology、Math
@@ -22,5 +21,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - 💬 Ask me about Computational Mathematics.
+- 🔭 I’m currently working on Dhyana.
  ...
 -->
