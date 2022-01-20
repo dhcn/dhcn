@@ -1,7 +1,7 @@
 ### Hi I'm dhcn 👋
 
-- 👨‍💻 I'm a technosocialist, I enjoy deep work.
-- 👨‍💼 Domains: RD.
+- 👨‍💻 I'm a meditator, I enjoy deep work.
+- 👨‍💼 Domains: RD & Meditation.
 - 📚 Education:Bachelor of CS, BUAA
 - 🌱 I’m currently studying on Dhyana
 - 😄 Fun fact:
