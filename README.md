@@ -1,9 +1,9 @@
 ### Hi I'm dhcn 👋
 
-- 👨‍💻 I'm a meditator, I enjoy deep work.
-- 👨‍💼 Domains: RD & Meditation.
+- 👨‍💻 I'm a Buddhist, I like practice.
+- 👨‍💼 Domains: RD & Nembutsu.
 - 📚 Education:Bachelor of CS, BUAA
-- 🌱 I’m currently studying on Dhyana
+- 🌱 I’m currently studying on Buddhism
 - 😄 Fun fact:
   - 🧑 KongFu、Reading、Coding、Modeling
   - 📖 Philosophy、Sinology、Math
