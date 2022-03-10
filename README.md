@@ -1,13 +1,10 @@
 ### Hi I'm dhcn 👋
 
-- 👨‍💻 I'm a Buddhist, I like practice.
-- 👨‍💼 Domains: RD & Nembutsu.
+- 👨‍💻 I'm a Buddhist, I like Nembutsu.
 - 📚 Education:Bachelor of CS, BUAA
-- 🌱 I’m currently studying on Buddhism
 - 😄 Fun fact:
   - 🧑 Nembutsu、Reading、Coding
-  - 📖 Philosophy、Sinology、Math
-  - 🎥 Movie、Game、Karaoke
+  - 📖 Buddhism、Philosophy、Sinology、Math
   - 🏊 Free Dive、Swimming、Running
   - 🍵 Cooking、Tea、Traveling
 
@@ -22,5 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - 💬 Ask me about Computational Mathematics.
 - 🔭 I’m currently working on Dhyana.
+- 🌱 I’m currently studying on Buddhism
+- 👨‍💼 Domains: RD & Nembutsu.
+- 🎥 Movie、Game、Karaoke
  ...
 -->
