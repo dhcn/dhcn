@@ -5,7 +5,7 @@
 - 📚 Education:Bachelor of CS, BUAA
 - 🌱 I’m currently studying on Buddhism
 - 😄 Fun fact:
-  - 🧑 KongFu、Reading、Coding、Modeling
+  - 🧑 Nembutsu、Reading、Coding
   - 📖 Philosophy、Sinology、Math
   - 🎥 Movie、Game、Karaoke
   - 🏊 Free Dive、Swimming、Running
