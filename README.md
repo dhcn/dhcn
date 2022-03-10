@@ -4,8 +4,8 @@
 - 📚 Education:Bachelor of CS, BUAA
 - 😄 Fun fact:
   - 🧑 Nembutsu、Reading、Coding
-  - 📖 Buddhism、Philosophy、Sinology、Math
-  - 🏊 Free Dive、Swimming、Running
+  - 📖 Buddhism、Philosophy、Psychology、Mathematics
+  - 🏊 Free Dive、Swimming、Running、Kongfu
   - 🍵 Cooking、Tea、Traveling
 
 <!--
@@ -21,6 +21,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Dhyana.
 - 🌱 I’m currently studying on Buddhism
 - 👨‍💼 Domains: RD & Nembutsu.
-- 🎥 Movie、Game、Karaoke
  ...
 -->
