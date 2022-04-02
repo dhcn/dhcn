@@ -1,9 +1,9 @@
 ### Hi I'm dhcn 👋
 
-- 👨‍💻 I'm a Buddhist, I like Nembutsu.
+- 👨‍💻 I'm a Engineer, I like Coding.
 - 📚 Education:Bachelor of CS, BUAA
 - 😄 Fun fact:
-  - 🧑 Nembutsu、Reading、Coding
+  - 🧑 Studing、Reading、Coding
   - 📖 Buddhism、Philosophy、Psychology、Mathematics
   - 🏊 Free Dive、Swimming、Running、Kongfu
   - 🍵 Cooking、Tea、Traveling
