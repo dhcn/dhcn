@@ -1,6 +1,6 @@
 ### Hi I'm dhcn 👋
 
-- 👨‍💻 I'm a Engineer, I like Coding.
+- 👨‍💻 I'm an Engineer, I like Coding.
 - 📚 Education:Bachelor of CS, BUAA
 - 😄 Fun fact:
   - 🧑 Studing、Reading、Coding
