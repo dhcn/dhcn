@@ -3,8 +3,7 @@
 - 👨‍💻 I'm an Engineer, I like Coding.
 - 📚 Education:Bachelor of CS, BUAA
 - 😄 Fun fact:
-  - 🧑 Studing、Reading、Coding
-  - 📖 Buddhism、Philosophy、Psychology、Mathematics
+  - 🧑 Reading、Coding
   - 🏊 Free Dive、Swimming、Running、Kongfu
   - 🍵 Cooking、Tea、Traveling
 
@@ -17,6 +16,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with overseas operation
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+- 📖 Buddhism、Philosophy、Psychology、Mathematics
 - 💬 Ask me about Computational Mathematics.
 - 🔭 I’m currently working on Dhyana.
 - 🌱 I’m currently studying on Buddhism
